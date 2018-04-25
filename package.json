@@ -1,0 +1,21 @@
+{
+  "name": "node-audio-player",
+  "version": "1.0.0",
+  "description": "A simple command line node audio player, just for experimenting",
+  "main": "cli.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "audio",
+    "player",
+    "simple",
+    "player"
+  ],
+  "author": "Vinayak Mote",
+  "license": "ISC",
+  "dependencies": {
+      "play-sound": "^1.1.2"
+  },
+  "devDependencies": {}
+}
